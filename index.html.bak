@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+<title>FlexBox NavBar</title>
+</head>
+<body>
+<nav class="navbar">
+<div class="container">
+<div class="logo">StepHen</div>
+<ul class="nav">
+<li>
+<a href="#">Home</a>
+</li>
+<li>
+<a href="#">About</a>
+</li>
+<li>
+<a href="#">Contact</a>
+</li>
+</nav>
+</div>
+</nav>
+<header class="header">
+<div class="container">
+<div>
+<h1>FlexBox NavBar</h1>
+<p>This Navbar was created by Stephen Abiola to help in 
+learning basics of Flexbox. Flexbox is a very important
+and useful tool in CSS.</p>
+</div>
+<img src="aby.jpg">
+</div>
+</header>
+<section>
+<div class="container">
+<div class="box">
+<h2>Alignment & Space</h2>
+<p>A more effecient way to lay out,align and distribute
+space among items in a container</p>
+</div>
+<div class="box">
+<h2>Tricky positioning</h2>
+<p>Flexbox usually solves tricky positioning including
+how to position or dynamically resize elements on</p>
+</div>
+<div class="box">
+<h2>Responsive Design</h2>
+<p>Flexbox makes building a website much much easier</p>
+</div>
+</div>
+</section>
+
+</body>
+
+</html>
